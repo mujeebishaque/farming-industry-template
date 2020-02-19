@@ -689,14 +689,14 @@ label.valid {
 }
 
 .no-padding.img {
-  background: url(../images/showcase-1.jpg) scroll center no-repeat;
+  background: url(../images/4.jpeg) scroll center no-repeat;
   background-size: cover;
   position: absolute;
   height: 100%;
 }
 
 .no-padding.img-2 {
-  background: url(../images/showcase-2.jpg) scroll center no-repeat;
+  background: url(../images/6.jpeg) scroll center no-repeat;
   background-size: cover;
   position: absolute;
   height: 100%;
